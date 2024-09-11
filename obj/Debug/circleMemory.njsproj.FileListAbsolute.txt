@@ -1,0 +1,3 @@
+C:\Users\wills\Desktop\Shortcuts\Files\Github\circleMemory\circleMemory\obj\Debug\circleMemory.njsproj.AssemblyReference.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\circleMemory\circleMemory\obj\Debug\circleMemory.njsproj.CoreCompileInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\circleMemory\circleMemory\bin\Microsoft.NodejsTools.WebRole.dll

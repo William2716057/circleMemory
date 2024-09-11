@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    border-radius: 50%;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    cursor: pointer;
+}
+
+#circle1 {
+    top: 10%;
+    left: 20%;
+}
+
+#circle2 {
+    top: 30%;
+    left: 60%;
+}
+
+#circle3 {
+    top: 50%;
+    left: 40%;
+}
+
+#circle4 {
+    top: 70%;
+    left: 80%;
+}
+
+#circle5 {
+    top: 90%;
+    left: 30%;
+}
+
+#circle6 {
+    top: 15%;
+    left: 50%;
+}
+
+#circle7 {
+    top: 60%;
+    left: 20%;
+}
+
+#circle8 {
+    top: 80%;
+    left: 70%;
+}
+
+#circle9 {
+    top: 40%;
+    left: 10%;
+}
+
+#circle10 {
+    top: 25%;
+    left: 90%;
+}
